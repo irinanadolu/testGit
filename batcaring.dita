@@ -5,11 +5,11 @@
     <shortdesc></shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Several tasks:</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Find a shelter</cmd>
             </step>
         </steps>
     </taskbody>
