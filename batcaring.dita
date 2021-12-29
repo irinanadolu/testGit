@@ -12,7 +12,7 @@
                 <cmd>Find a shelter</cmd>
             </step>
             <step>
-                <cmd>a</cmd>
+                <cmd>ab</cmd>
             </step>
         </steps>
     </taskbody>
