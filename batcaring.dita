@@ -11,6 +11,9 @@
             <step>
                 <cmd>Find a shelter</cmd>
             </step>
+            <step>
+                <cmd>a</cmd>
+            </step>
         </steps>
     </taskbody>
 </task>
