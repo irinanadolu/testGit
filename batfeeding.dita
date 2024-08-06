@@ -5,12 +5,12 @@
     <shortdesc></shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>On a global scale, bats take a wide variety of food, including fruit, leaves, bark,
+                nectar, pollen, winged insects, beetles, bugs and termites, spiders, small mammals
+                (especially rodents) birds, lizards, amphibians (especially frogs), scorpions, other
+                bats and fish. Some bats, i.e. the notorious vampire bats, will feed on the blood of
+                mammals and birds.</p>
         </context>
-        <steps>
-            <step>
-                <cmd></cmd>
-            </step>
-        </steps>
     </taskbody>
 </task>
+
