@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="batcaring">
-    <title>Batcaring a</title>
+    <title>Batcaring</title>
     <shortdesc></shortdesc>
     <taskbody>
         <context>
@@ -9,11 +9,21 @@
         </context>
         <steps>
             <step>
-                <cmd>Find a shelter</cmd>
+                <cmd> If a bat is found out during the day it needs help and to be assessed before
+                    release to ensure it is ok. </cmd>
             </step>
             <step>
-                <cmd>ab</cmd>
+                <cmd>Without directly handling the bat, place gently into a container such as a shoe
+                    box, with air holes (put these in before the bat!) lined with an old t-shirt,
+                    towel or other similar clean material. This can be used to help pick up the bat.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Food is not necessary at this stage. If possible offer water on a clean
+                    paintbrush or tissue paper dripped on mouth.</cmd>
+                <info> </info>
             </step>
         </steps>
     </taskbody>
 </task>
+
